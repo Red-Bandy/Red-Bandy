@@ -40,13 +40,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Red-Bandy/Red-Bandy/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Red-Bandy/count.svg?"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="109" src="https://media2.giphy.com/media/l46CvbYC4aFcykoXm/giphy.webp?cid=ecf05e47awp9130baap3g9kkjojz0zisbwue23hil82u40n6&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+<img align="left" height="109" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtsbGg0M2h1azJnaTUyMXA4Z2phcmlvN2xjaWthOHpxcGNpc2xyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZbekHqvSa91633c6u1/giphy.gif"  />
 
 ###
 
@@ -57,6 +61,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="www.linkedin.com/in/ahmed-ziat-67aa7624a" target="_blank">
